@@ -5,3 +5,5 @@
 - [Bug Me not](http://bugmenot.com/)
 - [Hex to String](http://string-functions.com/hex-string.aspx)
 - [How to upload library to jcenter](https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en)
+- [GanttPro](https://app.ganttpro.com)
+- [Ganttic](https://planner.ganttic.com)
