@@ -8,3 +8,4 @@
 - [GanttPro](https://app.ganttpro.com)
 - [Ganttic - Resource Alocation Tool](https://planner.ganttic.com)
 - [Draftable - Online Diff Tool](https://draftable.com)
+- [Pivotal Tracker - Software Management](https://www.pivotaltracker.com)
