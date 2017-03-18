@@ -13,3 +13,4 @@
 - [Conversor Video Youtube](https://www.onlinevideoconverter.com/pt/video-converter)
 - [Disk Inventory X - Clear Mac](http://www.derlien.com/)
 - [Divvy - Screen Management](http://mizage.com/divvy/)
+- [Image Optim](https://imageoptim.com/pt-br.html)
