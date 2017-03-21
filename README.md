@@ -14,3 +14,4 @@
 - [Disk Inventory X - Clear Mac](http://www.derlien.com/)
 - [Divvy - Screen Management](http://mizage.com/divvy/)
 - [Image Optim](https://imageoptim.com/pt-br.html)
+- [dp px Converter](https://pixplicity.com/dp-px-converter/)
