@@ -16,3 +16,4 @@
 - [Image Optim](https://imageoptim.com/pt-br.html)
 - [dp px Converter](https://pixplicity.com/dp-px-converter/)
 - [Dribble/Colors for inpirations](https://dribbble.com/colors)
+- [Make Infographics and Charts](https://infogr.am/)
